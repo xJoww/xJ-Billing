@@ -1,6 +1,10 @@
 # xJ-Billing
 A billing system remake version of xJoww with ESX and OX Lib supports. (based from ESX_Billing)
 
+> [!WARNING]
+> Currently resource is using **Indonesian Language**, you may change it to your favourite language.
+> Other languanges will be added in next version with based on your `Config.Locale (soon)`
+
 ## Download and Installation
 ### Using Git
 Make sure you have **Git** installed on your base system, [learn more](https://git-scm.com/downloads)
